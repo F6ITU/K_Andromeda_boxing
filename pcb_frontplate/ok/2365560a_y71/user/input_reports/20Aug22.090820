@@ -1,0 +1,1213 @@
+Date : 20 Aug 2022
+Time : 09:08
+
+
+----------------------------------------------------------------------
+(*)  1. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Cu.gbl
+----------------------------------------------------------------------
+        File size         : 148033 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : bl
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  2. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Mask.gbs
+----------------------------------------------------------------------
+        File size         : 5103 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : bs
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r150 my (r5.906 mil), Count = 116
+         2.D011, Symbol = r500 my (r19.685 mil), Count = 36
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  3. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Paste.gbp
+----------------------------------------------------------------------
+        File size         : 523 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : gbp
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Warning! Layer is empty after input. Please verify identified separator.
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  4. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Silkscreen.gbo
+----------------------------------------------------------------------
+        File size         : 6105 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : bo
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Warning! Interpreted zero-degree arc as 360 degree. See configuration parameter iol_gbr_arc_as_full_circle .
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r120 my (r4.724 mil), Count = 12
+         2.D011, Symbol = r150 my (r5.906 mil), Count = 116
+         3.D012, Symbol = r500 my (r19.685 mil), Count = 36
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Silkscreen.gbo
+Line = 22; Position = 601
+Last record = 47270001Y-62260000I-1006231J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Silkscreen.gbo
+Line = 27; Position = 677
+Last record = 319320001Y-149260000I-1006231J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Silkscreen.gbo
+Line = 32; Position = 754
+Last record = 319270001Y-84260000I-1006231J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Silkscreen.gbo
+Line = 37; Position = 831
+Last record = 319270001Y-116260000I-1006231J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-B_Silkscreen.gbo
+Line = 42; Position = 907
+Last record = 65270001Y-77760000I-1006231J0D01*
+
+Number of location messages exceeds 40.
+Rest of messages suppressed and can be found in log.
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  5. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-Edge_Cuts.gm1
+----------------------------------------------------------------------
+        File size         : 11709 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : gm1
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Warning! Interpreted zero-degree arc as 360 degree. See configuration parameter iol_gbr_arc_as_full_circle .
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r100 my (r3.937 mil), Count = 29
+         2.D011, Symbol = r150 my (r5.906 mil), Count = 12
+         3.D012, Symbol = r120 my (r4.724 mil), Count = 150
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-Edge_Cuts.gm1
+Line = 403; Position = 9555
+Last record = 59384000Y-44760000I-4114000J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-Edge_Cuts.gm1
+Line = 408; Position = 9630
+Last record = 33384000Y-103246000I-4114000J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-Edge_Cuts.gm1
+Line = 413; Position = 9707
+Last record = 318912670Y-156960000I-2042670J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-Edge_Cuts.gm1
+Line = 418; Position = 9785
+Last record = 160920001Y-156960000I-2042670J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-Edge_Cuts.gm1
+Line = 423; Position = 9861
+Last record = 26120001Y-34110000I-2042670J0D01*
+
+Number of location messages exceeds 40.
+Rest of messages suppressed and can be found in log.
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  6. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-F_Cu.gtl
+----------------------------------------------------------------------
+        File size         : 148033 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : tl
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  7. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-F_Mask.gts
+----------------------------------------------------------------------
+        File size         : 1496 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : ts
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r500 my (r19.685 mil), Count = 36
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  8. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-F_Paste.gtp
+----------------------------------------------------------------------
+        File size         : 8587 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : gtp
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r700 my (r27.559 mil), Count = 261
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  9. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-F_Silkscreen.gto
+----------------------------------------------------------------------
+        File size         : 63808 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : to
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r300 my (r11.811 mil), Count = 88
+         2.D011, Symbol = r370 my (r14.567 mil), Count = 1893
+         3.D012, Symbol = r200 my (r7.874 mil), Count = 8
+         4.D013, Symbol = r500 my (r19.685 mil), Count = 36
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+    10. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-NPTH-drl_map.gbr
+----------------------------------------------------------------------
+        File size         : 18285 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : block-schematic-munin-400-npth-drl_map.gbr
+
+        Start translation : 09:08:20
+        *** Error during translation ***
+        Error message     : iol_i274x-262004-Data error in input 274X file 
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-NPTH-drl_map.gbr
+Line = 8; Position = 182
+Last record = TA.AperFunction,Profile*
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 11. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-NPTH.drl
+----------------------------------------------------------------------
+        File size         : 926 Bytes
+        Format            : Excellon2
+        Step  name        : orig
+        Layer name        : drl
+
+        Start translation : 09:08:20
+        End   translation : 09:08:20
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Decimal coordinates
+        Separator char    : nl
+        Tool units        : mm
+
+             Tools  Histogram    
+        =========================
+         1.T01, Count = 36, Size = 19.685 mil (500 my)
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_drl_def_drill - 0 (Excellon)
+
+       iol_exc_use_header - no
+
+       iol_exc_g00_canc_comp - yes
+
+       iol_read_rout_chain - yes
+
+       iol_reset_after_tool_change - no
+
+       iol_exc_g32_g33_comp - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+    12. Path : (File) E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-PTH-drl_map.gbr
+----------------------------------------------------------------------
+        File size         : 3937 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : block-schematic-munin-400-pth-drl_map.gbr
+
+        Start translation : 09:08:20
+        *** Error during translation ***
+        Error message     : iol_i274x-262004-Data error in input 274X file 
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - no
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        
+File = E:/ybc/2365560A_Y71_andromeda_gerber_Y71/Block Schematic Munin 400-PTH-drl_map.gbr
+Line = 8; Position = 182
+Last record = TA.AperFunction,Profile*
+
+----------------------------------------------------------------------
+
+
+        ****************************
+        *Grand Total Dcodes Summary*
+        ****************************
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r100 my (r3.937 mil), Count = 29
+         2.D010, Symbol = r120 my (r4.724 mil), Count = 12
+         3.D010, Symbol = r500 my (r19.685 mil), Count = 36
+         4.D010, Symbol = r300 my (r11.811 mil), Count = 88
+         5.D010, Symbol = r150 my (r5.906 mil), Count = 116
+         6.D010, Symbol = r700 my (r27.559 mil), Count = 261
+         7.D011, Symbol = r500 my (r19.685 mil), Count = 36
+         8.D011, Symbol = r150 my (r5.906 mil), Count = 128
+         9.D011, Symbol = r370 my (r14.567 mil), Count = 1893
+        10.D012, Symbol = r500 my (r19.685 mil), Count = 36
+        11.D012, Symbol = r120 my (r4.724 mil), Count = 150
+        12.D012, Symbol = r200 my (r7.874 mil), Count = 8
+        13.D013, Symbol = r500 my (r19.685 mil), Count = 36
+        
