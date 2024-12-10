@@ -4,7 +4,9 @@ Ce projet, réalisé sous FreeCad, sert à imprimer un boitier pour la console d
 
 Andromeda_boxing abrite donc 
 
-* un ordinateur sous Windows -puisque c'est le noyau nécessaire à l'exécution du logiciel client Thetis-
+* un ordinateur sous Windows -puisque c'est le noyau nécessaire à l'exécution du logiciel client Thetis-. Pour des impératifs de 
+puisssance et de taille, la machine sélectionnée est un NUC Intel. Il peut être remplacé par une machine du catalogue Geekom ou Asrock NUC
+ qui utilisent strictement les mêmes dimensions et empreintes de fixation
 
 * une carte Andromeda dont l'électronique a été conçue par Kjell LA2NI et la partie firmware Arduino par Laurence G8NJJ  
 
@@ -14,4 +16,6 @@ Andromeda_boxing abrite donc
 
 L'ensemble de l'impression nécessite environ 600 à 900 grammes de PLA ou ABS selon le taux de remplissage souhaité. 
 
-IMG_20241129_120638.jpg
+
+![aka "Andromeda_boxing"](https://github.com/F6ITU/K_Andromeda_boxing/blob/main/photos/IMG_20241129_120816.jpg)
+IMG_20241129_120638.jp
